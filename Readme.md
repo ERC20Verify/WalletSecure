@@ -2,13 +2,7 @@
  Wallet Secure
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Rdimo/PyExtractor?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/Rdimo/PyExtractor?style=flat-square"/>
-  <img src="https://sonarcloud.io/api/project_badges/measure?project=Rdimo_PyExtractor&metric=ncloc"/>
-  <img src="https://img.shields.io/github/stars/Rdimo/PyExtractor?color=9acd32&label=Stars&style=flat-square"/>
-  <img src="https://img.shields.io/github/forks/Rdimo/PyExtractor?color=9acd32&label=Forks&style=flat-square"/>
-</p>
+
 
 <h4 align="center">
   <a href="https://t.me/WalletSecure">・Telegram</a>
@@ -49,9 +43,9 @@ PlagueRat
 
 ## 🎉 〢 Ideas/todo?
 
-- Prevents accidental flagging by other Antivirus programs
-- Better malware recognizer
-- Option to give a prompt when a malicious smart contract is called
+- Prevent accidental flagging by other Antivirus programs
+- Better malware detection
+- Option to give a prompt when a malicious smart contract is called, instead of simply declining the transaction
 
 ## 🐛 〢 Known Issues
 
