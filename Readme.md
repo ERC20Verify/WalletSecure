@@ -38,13 +38,13 @@ PlagueRat
 
 
 # Downloading as zip
-$ Press big green code button at the top right of the screen, it says code
-$ Press download ZIP
-$ Extract the ZIP file, it's called WalletSecure
+- Press the big green code button at the top right of the screen, it says code
+- Click on download ZIP
+- Extract the ZIP file, it's called WalletSecure
 ...
-$ Open the extracted folder
-$ Run install.bat
-$ Done!
+- Open the extracted folder
+- Run install.bat
+- Done!
 
 
 ## 🎉 〢 Ideas/todo?
