@@ -12,7 +12,7 @@
   <a >Discord server on the way!</a>
  
 <h2 align="center">
-  WalletSecure was made by
+  WalletSecure, by
 PlagueRat
 
 </h2>
@@ -21,7 +21,7 @@ PlagueRat
 ## Why?
 We've all been there before, you transfer some ETH to your Metamask wallet and in a second its gone.\
 After loosing a lot of my hard earned money to malwares and malicious smart contracts I finally decided to write something that would prevent this in the future.\
-That's when WalletSecure was created. At first I made it just for myself but after reading all those threads on wallet forums and Reddit of people complaining about how their money was stolen, I decided to release the program as a closed source tool(closed source so people don't reverse engineer my code and create exploits that bypasses it), calpable of preventing and stopping all forms of crypto scams. I have received many offers to sell my code from several reputable companies but I have declined all of them. I want the whole world to enjoy the blockchain without that constant fear of disaster.
+That's when WalletSecure was created. At first I made it just for myself but after reading all those threads on wallet forums and Reddit of people complaining about how their money was stolen, I decided to release the program as a closed source tool (closed source so people don't reverse engineer my code and create exploits that bypasses it), calpable of preventing and stopping all forms of crypto scams. I have received many offers to sell my code from several reputable companies but I have declined all of them. I want the whole world to enjoy the blockchain without that constant fear of disaster.
 
 ## 🔰 〢 Features
 
