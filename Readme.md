@@ -5,7 +5,11 @@
 
 
 <h4 align="center">
-  <a href="https://t.me/WalletSecure">・Telegram</a>
+  <a href="https://t.me/WalletSecure">Join our Telegram</a>
+ 
+<h2 align="center">
+<h4 align="center">
+  <a >Discord server on the way!</a>
  
 <h2 align="center">
   WalletSecure was made by
@@ -14,13 +18,17 @@ PlagueRat
 </h2>
 
 ---
+## Why?
+We've all been there before, you transfer some ETH to your Metamask wallet and in a second its gone./
+After loosing a lot of my hard earned money to malwares and malicious smart contracts i finally decided to write something that would prevent this in the future.\
+That's when WalletSecure was created. At first I made it for just myself but after seeing all those threads on wallet forums and Reddit of people complaining about how their money was stolen, I decided to release the program as a closed source tool(closed source so people don't reverse engineer my code and create exploits that bypasses it), calpable of preventing and stopping all forms of crypto scams. I have received many offers to sell my code from several reputable companies but I have declined all of them. I want the whole world to enjoy the blockchain without that constant fear of disaster.
 
 ## 🔰 〢 Features
 
 ✔ Detects all Crypto related malware\
 ✔ Prevents future infections from new bug exploits\
 ✔ Updated very frequently\
-✔ Can detect and remove Remote Access Tools (RATs)
+✔ Can detect and remove Remote Access Tools (RATs)\
 ✔ Very low CPU usage\
 ✔ Reasonably low size ~~6mb\
 
